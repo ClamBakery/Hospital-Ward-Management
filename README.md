@@ -1,4 +1,4 @@
-# Hospital-Ward-Management
+# Hospital-Ward-Management-System
 A program that allows the management of a hospital ward. Includes patients, doctors, beds and their associated interactions. in a GUI made in Java Swing. An assignment for CMPT 270.
 
 Built in Java 8.
